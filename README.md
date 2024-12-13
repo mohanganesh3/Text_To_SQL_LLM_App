@@ -5,12 +5,13 @@ Welcome to Text-to-SQL LLM App – a revolutionary web application that transfor
 This project is the perfect example of how Generative AI can seamlessly integrate with databases, enabling anyone to interact with data without needing to know SQL. Whether you’re a beginner or a seasoned developer, this app makes querying databases as simple as asking a question.
 
 ## 🎬 Demo 
-	1.	Launch the app by running streamlit run app.py in the terminal and open it in your browser.
+   1.Launch the app by running streamlit run app.py in the terminal and open it in your browser.
  
   <img width="673" alt="Screenshot 2024-12-13 at 8 17 35 AM" src="https://github.com/user-attachments/assets/855c59cf-0ed5-4c4d-bd58-509497dc1cee" />
   
-  2.	Ask a question in natural language, like “How many students are in Data Science class?”.
-	3.	Show the generated SQL query and the response fetched from the database directly on the app interface.
+   2.Ask a question in natural language, like “How many students are in Data Science class?”.
+   
+   3.Show the generated SQL query and the response fetched from the database directly on the app interface.
  
  <img width="698" alt="Screenshot 2024-12-13 at 8 19 07 AM" src="https://github.com/user-attachments/assets/df4b970f-61ae-4bc5-9b5d-544edb2ee760" />
 
